@@ -3,7 +3,7 @@
   "description": "My webpack project",
   "name": "my-webpack-project",
   "scripts": {
-    "build": "webpack -w",
+    "build": "webpack",
     "me-sass": "sass --watch ./src/scss/index.scss ./dist/css/index.css"
   },
   "devDependencies": {
